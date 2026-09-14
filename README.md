@@ -1,4 +1,4 @@
-# Effects-of-Turbidity-on-Common-Instream-Plants-in-Victoria
+# Effects of Turbidity on Common Instream Plants in Victoria
 Jing-Wen Wang, Laila Conti, Scott McKendrick, Christopher S. Jones, Joe Greet
 
 ## Overview
